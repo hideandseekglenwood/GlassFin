@@ -2844,7 +2844,7 @@ div[data-role="controlgroup"] a.ui-btn-active {
     order: 2;
     grid-column: 1 / 5;
     background-color: transparent;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(50px);
     box-shadow: var(--shadow);
 }
 
